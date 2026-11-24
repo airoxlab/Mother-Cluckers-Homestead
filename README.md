@@ -64,3 +64,7 @@ The site contains no invented products, prices, hours, history, or testimonials.
 ## Deploy
 
 Static files. Push to `airoxlab/Mother-Cluckers-Homestead` on `main`, then turn on GitHub Pages (main / root).
+
+## Update 2026-11-24
+
+The owner said by text that they have frozen whole turkeys, whole chickens, parted-out chickens and eggs on hand. The "From the coop" cards now show those three products, with two new stock photos: turkeys-field.jpg (Unsplash 1762330468636-6f581c258c39) and raw-chicken.jpg (Unsplash 1642102903909-560c5a7665bf).
